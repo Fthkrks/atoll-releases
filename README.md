@@ -40,3 +40,11 @@ Atoll is not endorsed by Tencent or Microsoft. The software is provided without 
 
 This repository contains only release documentation and license notices.
 Application source code and model weights are not committed here. Downloads are release assets.
+
+## Source code
+
+Atoll is open source under the MIT License:
+
+- Android: https://github.com/Fthkrks/atoll
+- Windows: https://github.com/Fthkrks/atoll-desktop
+- Website: https://github.com/Fthkrks/atoll-web
